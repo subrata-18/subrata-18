@@ -13,10 +13,10 @@
 
 ### 🛠️ Tech Stack
 ---python
-Languages:    Python, JavaScript, HTML/CSS
-Frameworks:   Flask, React, Node.js
-AI Tools:     Pyttsx3, OpenAI, Cohere, Github Copilot
-Others:       Git, GitHub, VS Code, Pycharm, Figma
+- Languages:    Python, JavaScript, HTML/CSS
+- Frameworks:   Flask, React, Node.js
+- AI Tools:     Pyttsx3, OpenAI, Cohere, Github Copilot
+- Others:       Git, GitHub, VS Code, Pycharm, Figma
 
 
 
