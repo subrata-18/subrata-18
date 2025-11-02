@@ -4,9 +4,9 @@
 
 
 ### 🧠 About Me
-- 🌟 I'm passionate about creating intelligent applications and voice-based assistants.
+- 🌟 I'm passionate about creating intelligent applications and interactive Web apps.
 - 👨‍💻🐍 My Favourite Programming Language is Python.
-- 🤖 Currently working on: `Jarvis AI` – a virtual assistant built using Python & Flask.
+- 🤖 Currently working on: A python backend based Chat application.
 - 📚 Learning: JavaScript | Node.js | React
 - ✍️ I write clean, readable code and love solving real-world problems with tech.
 ---
