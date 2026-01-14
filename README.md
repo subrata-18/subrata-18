@@ -15,7 +15,7 @@
 ---python
 - Languages:    Python, JavaScript, HTML/CSS
 - Libraries:    Numpy, Pandas
-- Frameworks:   Flask, React, Node.js
+- Frameworks:   Flask,Django, Node.js
 - AI Tools:     Pyttsx3, OpenAI, Cohere, Github Copilot
 - Others:       Git, GitHub, VS Code, Pycharm, Figma
 
