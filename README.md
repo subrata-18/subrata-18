@@ -4,18 +4,18 @@
 
 
 ### 🧠 About Me
-- 🌟 I'm passionate about creating intelligent applications using python.
+- 🌟 I'm passionate about creating intelligent applications using Python and React Native
 - 👨‍💻🐍 My Favourite Programming Language is Python.
-- 🤖 Currently working on: A python backend based Chat application.
+- 🤖 Currently working on: App Development using React Native
 - 📚 Learning: AI And Machine Learning
 - ✍️ I write clean, readable code and love solving real-world problems with tech.
 ---
 
 ### 🛠️ Tech Stack
 ---python
-- Languages:    Python, JavaScript, HTML/CSS
+- Languages:    Python, JavaScript, HTML/CSS, TypeScript , React Native
 - Libraries:    Numpy, Pandas
-- Frameworks:   Flask,Django, Node.js
+- Frameworks:   Flask, Django, Node.js , 
 - AI Tools:     Pyttsx3, OpenAI, Cohere, Github Copilot
 - Others:       Git, GitHub, VS Code, Pycharm, Figma
 
