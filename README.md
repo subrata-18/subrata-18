@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=subrata-18&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=subrata-18&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 📊 Leetcode:
-<img src="https://leetcard.jacoblin.cool/Subrata_18?theme=dark" height="180"/>
+<img src="https://leetcard.jacoblin.cool/hh5CQjcWwk?theme=dark" height="180"/>
 
 
 ---
